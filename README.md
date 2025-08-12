@@ -121,7 +121,8 @@ By completing this case study, you will:
 ---
 
 ## 🖼 Company Logo
-![RetailMart Logo](RetailMart_Logo.png)
+![RetailMart Logo](<img width="1024" height="1024" alt="Logo Retail" src="https://github.com/user-attachments/assets/f1ad1b5c-c7ae-4d46-a4bd-7ef08172ccba" />
+)
 
 ---
 
