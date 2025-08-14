@@ -133,3 +133,5 @@ All datasets are included in the `data/` folder of this repository.
 
 ## 📄 License
 This case study is for **educational and training purposes only**.
+
+[DAX Reference](https://mufasyah-my.sharepoint.com/:w:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/EXQIuP3YUP9Dgc1Wb9yfQ0EBIKwqAHAp_NR47ozsOWeXhw?e=3ZKnIZ)
