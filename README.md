@@ -133,3 +133,6 @@ All datasets are included in the `data/` folder of this repository.
 
 ## 📄 License
 This case study is for **educational and training purposes only**.
+
+## Slide
+[Note]["https://drive.google.com/file/d/1_CGNthIH-m1rphoJtiJp9x3sQcWUP7QX/view?usp=sharing"]
