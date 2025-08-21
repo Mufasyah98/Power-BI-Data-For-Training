@@ -1,3 +1,7 @@
+## Dax Reference
+
+[DAX Note](https://mufasyah-my.sharepoint.com/:w:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/ESudtSStXZJGqy5X2F_mldgB6310hmxxcej4WddzaKrZ0A?e=L9la9w)
+
 # RetailMart Power BI Case Study
 
 ## 📌 Overview
