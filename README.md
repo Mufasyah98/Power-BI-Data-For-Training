@@ -2,6 +2,9 @@
 
 [DAX Note](https://mufasyah-my.sharepoint.com/:w:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/ESudtSStXZJGqy5X2F_mldgB6310hmxxcej4WddzaKrZ0A?e=L9la9w)
 
+## SLide
+[Slide](https://drive.google.com/file/d/1c94R2abWn66XetycQgonDkwzEvYVhWKR/view?usp=sharing)
+
 # RetailMart Power BI Case Study
 
 ## 📌 Overview
