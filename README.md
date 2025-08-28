@@ -1,5 +1,7 @@
 [Post Test](https://docs.google.com/forms/d/1A7wVBwMr0Roi4bTeY7JoAQ_U9YFa0-dhC6uf5IBXmmE/edit)
 
+[Group Telegram Support](https://t.me/+hJD6XWdEvH8xZWQ1)
+
 # RetailMart Power BI Case Study
 
 ## 📌 Overview
