@@ -1,5 +1,3 @@
-[Slide](https://drive.google.com/file/d/1F1wYcm0K9ry46RFHg--_-_N5ZioeBssR/view?usp=sharing)
-
 # RetailMart Power BI Case Study
 
 ## 📌 Overview
