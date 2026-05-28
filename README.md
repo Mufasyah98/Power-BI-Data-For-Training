@@ -1,5 +1,3 @@
-https://mufasyah-my.sharepoint.com/:b:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IQDaM5EwQEuTSqwquqYD0tFXAa-Stvyyll7j5ga6n9BMpGE
-
 # RetailMart Power BI Case Study
 
 ## 📌 Overview
