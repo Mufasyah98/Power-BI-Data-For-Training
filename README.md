@@ -1,4 +1,4 @@
-[Klik disini untuk training material](https://mufasyah-my.sharepoint.com/:f:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IgDq2PjOdwu3S6Y1O4SNYbu7Adi4zwL6MJkfsOxyL9W9Fjo?e=wBsWwX)
+[Click here for training materials](https://mufasyah-my.sharepoint.com/:f:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IgDq2PjOdwu3S6Y1O4SNYbu7Adi4zwL6MJkfsOxyL9W9Fjo?e=wBsWwX)
 
 # RetailMart Power BI Case Study
 
