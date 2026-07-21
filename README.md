@@ -1,5 +1,7 @@
 ## Upload your exercise here
 
+Example : YourName_NU_Skin
+
 [Submit here...](https://mufasyah-my.sharepoint.com/:f:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IgAR7wdfClfdTbOS3_x-6Q9nASagZxPa8Z1_sVaXjN2Dh-Y?e=vFVHeT)
 
 ## Slide For training
