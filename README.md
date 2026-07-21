@@ -1,3 +1,7 @@
+## Upload your exercise here
+
+[Submit here...](https://mufasyah-my.sharepoint.com/:f:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IgAR7wdfClfdTbOS3_x-6Q9nASagZxPa8Z1_sVaXjN2Dh-Y?e=vFVHeT)
+
 ## Slide For training
 
 [Click here for note](https://mufasyah-my.sharepoint.com/:b:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IQCPobOtFGpqSI8uRC1IErkJASDBPx7iBEctcX7b47XDNZo?e=6xZhTM)
